@@ -1,0 +1,23 @@
+{
+  "name": "my-fund",
+  "homepage": "https://github.com/jie-cui/MyFund",
+  "authors": [
+    "Jie Cui <jie1009xp@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "angular-resource": "~1.4.8"
+  }
+}
